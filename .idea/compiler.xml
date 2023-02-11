@@ -9,16 +9,25 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CostummerService" />
         <module name="inventoryservice" />
+        <module name="Gatway" />
+        <module name="discoveryservice" />
+        <module name="Billingservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Billingservice" target="17" />
       <module name="CostummerService" target="17" />
+      <module name="discoveryservice" target="17" />
+      <module name="Gatway" target="17" />
       <module name="inventoryservice" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Billingservice" options="-parameters" />
       <module name="CostummerService" options="-parameters" />
+      <module name="Gatway" options="-parameters" />
+      <module name="discoveryservice" options="-parameters" />
       <module name="inventoryservice" options="-parameters" />
     </option>
   </component>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Billingservice/Billingservice.iml" filepath="$PROJECT_DIR$/Billingservice/Billingservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/CostummerService/CostummerService.iml" filepath="$PROJECT_DIR$/CostummerService/CostummerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gatway/Gatway.iml" filepath="$PROJECT_DIR$/Gatway/Gatway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryservice/discoveryservice.iml" filepath="$PROJECT_DIR$/discoveryservice/discoveryservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryservices/discoveryservices.iml" filepath="$PROJECT_DIR$/discoveryservices/discoveryservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecom-app.iml" filepath="$PROJECT_DIR$/ecom-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/inventoryservice/inventoryservice.iml" filepath="$PROJECT_DIR$/inventoryservice/inventoryservice.iml" />
     </modules>
